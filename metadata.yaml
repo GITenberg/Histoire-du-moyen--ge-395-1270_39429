@@ -1,0 +1,33 @@
+_repo: Histoire-du-moyen--ge-395-1270_39429
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Langlois, Charles Victor
+    alias: Langlois, Ch.-V. (Charles-Victor)
+    birthdate: 1863
+    deathdate: 1929
+    gutenberg_agent_id: '34050'
+    url: http://www.gutenberg.org/2009/agents/34050
+    wikipedia: http://en.wikipedia.org/wiki/Charles-Victor_Langlois
+description: ''
+gutenberg_bookshelf:
+- FR Histoire
+- FR Education et Enseignement
+gutenberg_issued: '2012-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39429'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Europe -- History -- 392-814'
+- !lcsh 'Europe -- History -- 476-1492'
+- !lcsh 'Middle Ages'
+- !lcc 'D'
+title: Histoire du moyen âge 395-1270
+url: http://www.gutenberg.org/ebooks/39429
