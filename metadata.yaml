@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34050
     wikipedia: http://en.wikipedia.org/wiki/Charles-Victor_Langlois
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39429#Histoire-du-moyen--ge-395-1270
 gutenberg_bookshelf:
 - FR Histoire
 - FR Education et Enseignement
